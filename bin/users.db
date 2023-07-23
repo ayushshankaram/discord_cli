@@ -1,0 +1,9 @@
+{"version":1,"sembast":1}
+{"key":"loggedin","value":true}
+{"key":"loggedin","deleted":true}
+{"key":"usernameAndPass","value":{"username":"aert","pass":"22"}}
+{"key":"usernameAndPass","value":{"username":"zgdd","pass":"111"}}
+{"key":"usernameAndPass","deleted":true}
+{"key":"usernameAndPass","value":{"username":"ayush","pass":"1234"}}
+{"key":"usernameAndPass","value":{"username":"qwerty","pass":"1234"}}
+{"key":"loggedin","value":true}
